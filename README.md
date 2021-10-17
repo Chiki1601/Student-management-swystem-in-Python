@@ -1,1 +1,1 @@
-# Student-management-swystem-in-Python
+# Student-management-system-in-Python
